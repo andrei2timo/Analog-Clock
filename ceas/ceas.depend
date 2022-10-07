@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1465902771 source:d:\9_e\timo andrei claudiu\ceas\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+
+1466091447 source:c:\users\andrei\desktop\ceas\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+
+1486066927 source:d:\clasa a 9-a\ceas\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+
+1592315830 source:c:\users\suvit\desktop\portofoliu\ceas\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+
+1592315830 source:c:\users\suvit\desktop\uwe\portofoliu\ceas\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+
