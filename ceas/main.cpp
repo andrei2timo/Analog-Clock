@@ -4,8 +4,7 @@
 #include <stdio.h>
 #include <cstdlib>
 #include <windows.h>
-///Ceas
-///Munteanu Georgiana & Timo Andrei. Clasa 9E
+
 using namespace std;
 
 int main()
